@@ -1,0 +1,40 @@
+baseURL: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Billy Geary
+theme: hermit
+pygmentsCodefences: yes
+pygmentsUseClasses: yes
+rssLimit: 10
+copyright: 
+enableEmoji: yes
+author:
+  name: Billy Geary
+blackfriday: {}
+taxonomies:
+  tag: tags
+params:
+  code_copy_button: yes
+  dateform: Jan 2, 2006
+  dateformNum: '2006-01-02'
+  dateformNumTime: 2006-01-02 15:04 -0700
+  dateformShort: Jan 2
+  footerCopyright: ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/"
+    target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  homeSubtitle: Ecosystem managment, conservation policy and fire ecology
+  justifyContent: no
+  relatedPosts: no
+  social:
+    - name: twitter
+      url: https://twitter.com/billy_geary
+    - name: github
+      url: https://github.com/billygeary
+  themeColor: '#494f5c'
+menu:
+  main:
+    - name: About
+      url: about/
+      weight: 10
+    - name: Publications
+      url: publications/
+      weight: 20
