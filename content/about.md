@@ -9,3 +9,5 @@ I am an applied, quantitative ecologist with experience in a broad range of disc
 My research focuses on how species interact with each other and large-scale ecological processes (e.g. fire, weather), and exploring how these can best be managed to benefit biodiversity cost-effectively. I use a combination of quantitative, field-based and structured facilitation approaches to better understand ecosystems and help managers have good outcomes for biodiversity. 
 
 I am currently working on my PhD at the Centre for Integrative Ecology at Deakin University, Australia. 
+
+Contact me
