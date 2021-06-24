@@ -1,8 +1,10 @@
 ---
 title: Publications
+images:
+  - /images/cathrange.jpg
 ---
 
-For my full list of publications, see my [Google Scholar page](https://scholar.google.com/citations?user=pDXxC6EAAAAJ&hl=en). 
+For my full list of publications, also see my [**Google Scholar page**](https://scholar.google.com/citations?user=pDXxC6EAAAAJ&hl=en). Please [**email me**](mailto:wlge@deakin.edu.au) for pdfs of any of my papers. 
 
 ***2021***
 
