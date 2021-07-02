@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 defaultContentLanguage: en
-title: Billy Geary
+title: William Geary
 theme: hermit
 pygmentsCodefences: yes
 pygmentsUseClasses: yes
@@ -21,7 +21,7 @@ params:
   dateformShort: Jan 2
   footerCopyright: ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/"
     target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  homeSubtitle: Ecosystem managment, conservation policy and fire ecology
+  homeSubtitle: Ecosystem managment, conservation policy and ecology research
   justifyContent: no
   relatedPosts: no
   social:
@@ -29,6 +29,8 @@ params:
       url: https://twitter.com/billy_geary
     - name: github
       url: https://github.com/billygeary
+    - name: email
+      url: mailto:wlge@deakin.edu.au
   themeColor: '#494f5c'
 menu:
   main:
